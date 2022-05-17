@@ -29,12 +29,11 @@ Pass all the values to the GirdProblem, and print the solution path.
 
 ## PROGRAM
 ```
-/*
 Developed by SHAIK KHADAR BASHA
 Registration Number: 212220230045
-*/
+
 ```
-```
+```python
 %matplotlib inline
 import matplotlib.pyplot as plt
 import random
