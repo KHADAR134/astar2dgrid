@@ -1,4 +1,6 @@
-# A* Path Finding Algorithm for 2D Grid World
+### EX.NO: 04
+### DATE: 17-05-2022
+# <p align="center">A* Path Finding Algorithm for 2D Grid World</p>
 ## AIM
 
 To develop a code to find the route from the source to the destination point using A* algorithm for 2D grid world.
@@ -29,8 +31,8 @@ Pass all the values to the GirdProblem, and print the solution path.
 
 ## PROGRAM
 ```
-Developed by SHAIK KHADAR BASHA
-Registration Number: 212220230045
+DEVELOPED BY:SHAIK KHADAR BASHA
+REGISTER NO: 212220230045
 
 ```
 ```python
